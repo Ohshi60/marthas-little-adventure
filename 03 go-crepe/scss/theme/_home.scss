@@ -143,7 +143,7 @@ body {
 			left: 0;
 			width: 75%;
 			height: 100%;
-			background: url(../img/s.jpg) no-repeat center center/cover;
+			background: url(../img/hb-bg.jpg) no-repeat center center/cover;
 			z-index: 1;
 			@include media-breakpoint-down (sm) {
 				width: 100%;
@@ -187,13 +187,13 @@ body {
 			.owl-dot {
 				height: 33.33%;
 				&:nth-child(1){
-					background: url(../img/sd1.jpg) no-repeat center center/cover;
+					background: url(../img/slider/colombia-general.jpg) no-repeat center center/cover;
 				}
 				&:nth-child(2){
-					background: url(../img/sd2.jpg) no-repeat center center/cover;
+					background: url(../img/slider/caf2.jpg) no-repeat center center/cover;
 				}
 				&:nth-child(3){
-					background: url(../img/sd3.jpg) no-repeat center center/cover;
+					background: url(../img/slider/zonacafetera.jpeg) no-repeat center center/cover;
 				}
 			}
 		}
